@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CellMerger.cs](./CS/WebSite/App_Code/CellMerger.cs) (VB: [CellMerger.vb](./VB/WebSite/App_Code/CellMerger.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+<!-- default file list end -->
 # OBSOLETE - ASPxGridView - Cell Merging
 
 
